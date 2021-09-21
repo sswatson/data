@@ -1,0 +1,358 @@
+name	victory_points	egg_capacity	wingspan	woodland	grassland	wetland
+Abbott's Booby	5	1	190	FALSE	FALSE	TRUE
+Acorn Woodpecker	5	4	46	TRUE	FALSE	FALSE
+American Avocet	6	2	79	FALSE	FALSE	TRUE
+American Bittern	7	2	107	FALSE	FALSE	TRUE
+American Coot	3	5	61	FALSE	FALSE	TRUE
+American Crow	4	2	99	TRUE	TRUE	TRUE
+American Goldfinch	3	3	23	FALSE	TRUE	FALSE
+American Kestrel	5	3	56	FALSE	TRUE	FALSE
+American Oystercatcher	5	2	81	FALSE	FALSE	TRUE
+American Redstart	4	2	20	TRUE	FALSE	FALSE
+American Robin	1	4	43	TRUE	TRUE	FALSE
+American White Pelican	5	1	274	FALSE	FALSE	TRUE
+American Woodcock	9	2	46	TRUE	TRUE	FALSE
+Anhinga	6	2	114	FALSE	FALSE	TRUE
+Anna's Hummingbird	4	2	13	TRUE	TRUE	TRUE
+Ash-Throated Flycatcher	4	4	30	FALSE	TRUE	FALSE
+Atlantic Puffin	8	1	53	FALSE	FALSE	TRUE
+Audouin's Gull	1	2	132	FALSE	FALSE	TRUE
+Australasian Pipit	3	4	31	FALSE	TRUE	FALSE
+Australasian Shoveler	4	4	75	FALSE	FALSE	TRUE
+Australian Ibis	5	2	118	FALSE	TRUE	TRUE
+Australian Magpie	4	2	75	FALSE	TRUE	FALSE
+Australian Owlet-Nightjar	2	2	28	TRUE	TRUE	TRUE
+Australian Raven	7	3	100	TRUE	TRUE	TRUE
+Australian Reed Warbler	2	3	21	FALSE	FALSE	TRUE
+Australian Shelduck	3	4	113	FALSE	FALSE	TRUE
+Australian Zebra Finch	1	3	22	FALSE	TRUE	FALSE
+Baird's Sparrow	3	2	23	FALSE	TRUE	FALSE
+Bald Eagle	9	1	203	FALSE	FALSE	TRUE
+Baltimore Oriole	9	2	30	TRUE	FALSE	FALSE
+Barn Owl	5	4	107	TRUE	TRUE	TRUE
+Barn Swallow	1	3	38	FALSE	TRUE	TRUE
+Barred Owl	3	2	107	TRUE	FALSE	FALSE
+Barrow's Goldeneye	5	4	71	FALSE	FALSE	TRUE
+Bell's Vireo	4	2	18	TRUE	TRUE	FALSE
+Belted Kingfisher	4	4	53	FALSE	FALSE	TRUE
+Bewick's Wren	4	3	18	TRUE	TRUE	TRUE
+Black Noddy	9	1	69	FALSE	FALSE	TRUE
+Black Redstart	0	4	24	FALSE	TRUE	FALSE
+Black Skimmer	6	2	112	FALSE	FALSE	TRUE
+Black Swan	6	3	180	FALSE	FALSE	TRUE
+Black Tern	4	2	61	FALSE	FALSE	TRUE
+Black Vulture	2	1	150	TRUE	FALSE	FALSE
+Black Woodpecker	4	2	70	TRUE	FALSE	FALSE
+Black-Bellied Whistling Duck	2	5	76	FALSE	FALSE	TRUE
+Black-Billed Magpie	3	3	64	FALSE	TRUE	FALSE
+Black-Chinned Hummingbird	4	2	8	TRUE	TRUE	TRUE
+Black-Crowned Night-Heron	9	2	112	FALSE	FALSE	TRUE
+Black-Headed Gull	3	2	102	FALSE	FALSE	TRUE
+Black-Necked Stilt	4	2	74	FALSE	FALSE	TRUE
+Black-Shouldered Kite	2	3	87	FALSE	TRUE	FALSE
+Black-Tailed Godwit	6	2	76	FALSE	FALSE	TRUE
+Black-Throated Diver	5	1	120	FALSE	FALSE	TRUE
+Blue Grosbeak	4	3	28	TRUE	TRUE	TRUE
+Blue Jay	3	2	41	TRUE	FALSE	FALSE
+Blue-Gray Gnatcatcher	1	3	15	TRUE	FALSE	FALSE
+Blue-Winged Warbler	8	2	20	TRUE	TRUE	FALSE
+Bluethroat	7	5	22	FALSE	TRUE	TRUE
+Blyth's Hornbill	7	2	150	TRUE	FALSE	FALSE
+Bobolink	4	3	30	FALSE	TRUE	FALSE
+Bonelli's Eagle	8	1	160	TRUE	TRUE	TRUE
+Brant	3	2	114	FALSE	FALSE	TRUE
+Brewer's Blackbird	3	3	41	FALSE	TRUE	FALSE
+Broad-Winged Hawk	4	2	85	TRUE	FALSE	FALSE
+Brolga	6	2	215	FALSE	FALSE	TRUE
+Bronzed Cowbird	5	0	36	FALSE	TRUE	FALSE
+Brown Falcon	5	2	102	TRUE	TRUE	TRUE
+Brown Pelican	4	2	201	FALSE	FALSE	TRUE
+Brown-Headed Cowbird	3	0	30	FALSE	TRUE	FALSE
+Budgerigar	0	3	30	TRUE	TRUE	TRUE
+Bullfinch	3	4	24	TRUE	FALSE	FALSE
+Burrowing Owl	5	4	53	FALSE	TRUE	FALSE
+Bushtit	2	5	15	TRUE	TRUE	TRUE
+California Condor	1	1	277	TRUE	TRUE	TRUE
+California Quail	3	6	36	TRUE	TRUE	FALSE
+Canada Goose	3	3	132	FALSE	TRUE	TRUE
+Canvasback	4	4	82	FALSE	FALSE	TRUE
+Carolina Chickadee	2	3	20	TRUE	FALSE	FALSE
+Carolina Wren	1	5	20	TRUE	FALSE	FALSE
+Carrion Crow	3	2	92	FALSE	TRUE	TRUE
+Cassin's Finch	4	3	30	TRUE	FALSE	FALSE
+Cassin's Sparrow	3	2	20	FALSE	TRUE	FALSE
+Cedar Waxwing	3	3	25	TRUE	TRUE	FALSE
+Cerulean Warbler	4	2	20	TRUE	FALSE	FALSE
+Cetti's Warbler	4	3	17	FALSE	FALSE	TRUE
+Chestnut-Collared Longspur	5	4	25	FALSE	TRUE	FALSE
+Chihuahuan Raven	4	3	112	FALSE	TRUE	FALSE
+Chimney Swift	3	2	36	TRUE	TRUE	TRUE
+Chipping Sparrow	1	3	23	TRUE	TRUE	FALSE
+Clark's Grebe	5	2	61	FALSE	FALSE	TRUE
+Clark's Nutcracker	5	2	61	TRUE	FALSE	FALSE
+Coal Tit	2	6	16	TRUE	FALSE	FALSE
+Cockatiel	2	5	32	TRUE	TRUE	TRUE
+Common Blackbird	4	5	36	TRUE	FALSE	FALSE
+Common Buzzard	4	2	123	TRUE	TRUE	TRUE
+Common Chaffinch	4	2	23	TRUE	TRUE	FALSE
+Common Chiffchaff	3	3	20	TRUE	FALSE	TRUE
+Common Cuckoo	4	0	57	TRUE	TRUE	FALSE
+Common Goldeneye	2	4	73	TRUE	FALSE	TRUE
+Common Grackle	3	3	43	TRUE	TRUE	TRUE
+Common Kingfisher	4	5	26	FALSE	FALSE	TRUE
+Common Little Bittern	2	3	49	FALSE	FALSE	TRUE
+Common Loon	6	1	117	FALSE	FALSE	TRUE
+Common Merganser	5	4	86	FALSE	FALSE	TRUE
+Common Moorhen	3	6	53	FALSE	FALSE	TRUE
+Common Nighthawk	3	2	56	TRUE	TRUE	TRUE
+Common Nightingale	3	4	23	TRUE	TRUE	TRUE
+Common Raven	5	2	135	TRUE	TRUE	TRUE
+Common Starling	3	4	38	FALSE	TRUE	TRUE
+Common Swift	5	2	46	FALSE	TRUE	FALSE
+Common Yellowthroat	1	4	18	FALSE	FALSE	TRUE
+Cooper's Hawk	3	2	79	TRUE	FALSE	FALSE
+Corsican Nuthatch	4	2	21	TRUE	FALSE	FALSE
+Count Raggi's Bird-of-Paradise	7	2	22	TRUE	FALSE	FALSE
+Crested Pigeon	3	4	45	FALSE	TRUE	FALSE
+Crimson Chat	4	2	19	FALSE	TRUE	FALSE
+Dark-Eyed Junco	3	3	23	TRUE	TRUE	FALSE
+Dickcissel	4	3	25	FALSE	TRUE	FALSE
+Double-Crested Cormorant	3	3	132	FALSE	FALSE	TRUE
+Downy Woodpecker	3	2	30	TRUE	FALSE	FALSE
+Dunnock	1	4	20	TRUE	FALSE	FALSE
+Eastern Bluebird	4	5	33	FALSE	TRUE	FALSE
+Eastern Imperial Eagle	7	2	200	FALSE	TRUE	FALSE
+Eastern Kingbird	2	2	38	TRUE	TRUE	TRUE
+Eastern Phoebe	3	4	28	TRUE	TRUE	TRUE
+Eastern Rosella	4	3	48	TRUE	TRUE	FALSE
+Eastern Screech Owl	4	2	51	TRUE	FALSE	FALSE
+Eastern Whipbird	5	2	30	TRUE	FALSE	FALSE
+Eleonora's Falcon	6	2	95	FALSE	FALSE	TRUE
+Emu	4	6	0	TRUE	TRUE	TRUE
+Eurasian Collared-Dove	5	2	52	FALSE	TRUE	FALSE
+Eurasian Golden Oriole	4	2	46	TRUE	TRUE	FALSE
+Eurasian Green Woodpecker	4	3	48	TRUE	TRUE	FALSE
+Eurasian Hobby	4	2	75	TRUE	TRUE	TRUE
+Eurasian Jay	4	3	56	TRUE	FALSE	FALSE
+Eurasian Magpie	1	3	56	FALSE	TRUE	FALSE
+Eurasian Nutcracker	5	2	55	TRUE	FALSE	FALSE
+Eurasian Nuthatch	3	3	25	TRUE	FALSE	FALSE
+Eurasian Sparrowhawk	4	2	65	TRUE	FALSE	FALSE
+Eurasian Tree Sparrow	3	4	21	TRUE	TRUE	FALSE
+European Bee-Eater	3	3	38	FALSE	TRUE	FALSE
+European Goldfinch	6	4	23	TRUE	TRUE	FALSE
+European Honey Buzzard	4	1	134	TRUE	FALSE	FALSE
+European Robin	4	4	22	TRUE	FALSE	FALSE
+European Roller	3	2	70	FALSE	TRUE	FALSE
+European Turtle Dove	4	1	51	TRUE	TRUE	TRUE
+Ferruginous Hawk	6	2	142	FALSE	TRUE	FALSE
+Fish Crow	6	2	91	TRUE	TRUE	TRUE
+Forster's Tern	4	2	79	FALSE	FALSE	TRUE
+Franklin's Gull	3	2	91	FALSE	TRUE	TRUE
+Galah	5	2	75	TRUE	TRUE	FALSE
+Goldcrest	1	6	15	TRUE	FALSE	FALSE
+Golden Eagle	8	1	201	FALSE	TRUE	TRUE
+Golden-Headed Cisticola	1	3	15	FALSE	TRUE	FALSE
+Gould's Finch	3	3	14	TRUE	TRUE	TRUE
+Grasshopper Sparrow	2	2	20	FALSE	TRUE	FALSE
+Gray Catbird	5	3	28	TRUE	TRUE	TRUE
+Great Blue Heron	5	2	183	FALSE	FALSE	TRUE
+Great Crested Flycatcher	5	3	33	TRUE	FALSE	FALSE
+Great Crested Grebe	3	2	65	FALSE	FALSE	TRUE
+Great Egret	7	3	130	FALSE	FALSE	TRUE
+Great Horned Owl	8	2	112	TRUE	FALSE	FALSE
+Great Tit	4	6	24	TRUE	FALSE	FALSE
+Greater Flamingo	3	1	152	FALSE	FALSE	TRUE
+Greater Prairie Chicken	5	4	71	FALSE	TRUE	FALSE
+Greater Roadrunner	7	2	56	FALSE	TRUE	FALSE
+Green Heron	4	3	66	FALSE	FALSE	TRUE
+Green Pygmy-Goose	4	4	54	FALSE	FALSE	TRUE
+Grey Butcherbird	5	2	40	TRUE	TRUE	TRUE
+Grey Heron	3	2	185	FALSE	FALSE	TRUE
+Grey Shrikethrush	2	3	26	TRUE	FALSE	FALSE
+Grey Teal	2	5	64	FALSE	FALSE	TRUE
+Grey Warbler	1	3	16	TRUE	FALSE	FALSE
+Grey-Headed Mannikin	2	3	15	FALSE	TRUE	FALSE
+Greylag Goose	7	2	164	FALSE	FALSE	TRUE
+Griffon Vulture	1	1	252	FALSE	TRUE	FALSE
+Hawfinch	4	2	30	TRUE	FALSE	FALSE
+Hermit Thrush	7	2	30	TRUE	FALSE	FALSE
+Hooded Crow	3	2	99	FALSE	TRUE	TRUE
+Hooded Merganser	5	4	61	FALSE	FALSE	TRUE
+Hooded Warbler	7	3	18	TRUE	FALSE	FALSE
+Horned Lark	5	4	30	FALSE	TRUE	FALSE
+Horsfield's Bronze-Cuckoo	2	0	29	TRUE	TRUE	TRUE
+Horsfield's Bushlark	2	2	12	FALSE	TRUE	FALSE
+House Finch	3	6	25	TRUE	TRUE	TRUE
+House Sparrow	6	5	22	FALSE	TRUE	FALSE
+House Wren	1	5	15	TRUE	TRUE	FALSE
+Inca Dove	2	4	28	FALSE	TRUE	FALSE
+Indigo Bunting	5	3	20	TRUE	TRUE	FALSE
+Juniper Titmouse	4	3	23	TRUE	FALSE	FALSE
+Kākāpо̄	4	2	0	TRUE	FALSE	FALSE
+Kea	5	2	90	TRUE	TRUE	FALSE
+Kelp Gull	6	2	135	FALSE	FALSE	TRUE
+Kererū	3	2	75	TRUE	FALSE	FALSE
+Killdeer	1	3	46	FALSE	TRUE	TRUE
+King Rail	4	6	51	FALSE	FALSE	TRUE
+Korimako	4	3	22	TRUE	FALSE	FALSE
+Laughing Kookaburra	1	3	60	TRUE	TRUE	TRUE
+Lazuli Bunting	4	4	23	FALSE	TRUE	FALSE
+Lesser Frigatebird	9	1	175	FALSE	FALSE	TRUE
+Lesser Whitethroat	0	2	18	TRUE	TRUE	FALSE
+Lewin's Honeyeater	5	2	29	TRUE	FALSE	FALSE
+Lincoln's Sparrow	3	2	20	TRUE	TRUE	TRUE
+Little Bustard	4	2	110	FALSE	TRUE	FALSE
+Little Owl	4	2	56	TRUE	TRUE	FALSE
+Little Penguin	7	2	0	FALSE	FALSE	TRUE
+Little Pied Cormorant	4	2	88	FALSE	FALSE	TRUE
+Loggerhead Shrike	3	4	30	FALSE	TRUE	TRUE
+Long-Tailed Tit	0	4	18	TRUE	FALSE	FALSE
+Magpie-Lark	5	3	57	FALSE	TRUE	FALSE
+Major Mitchell's Cockatoo	6	2	81	TRUE	TRUE	FALSE
+Mallard	0	4	89	FALSE	FALSE	TRUE
+Malleefowl	2	6	33	TRUE	TRUE	FALSE
+Maned Duck	2	4	79	FALSE	FALSE	TRUE
+Many-Colored Fruit Dove	2	2	30	TRUE	FALSE	FALSE
+Masked Lapwing	1	3	80	FALSE	TRUE	TRUE
+Mississippi Kite	4	1	79	TRUE	TRUE	FALSE
+Mistletoebird	3	4	18	TRUE	FALSE	FALSE
+Moltoni's Warbler	3	2	17	FALSE	TRUE	FALSE
+Montagu's Harrier	4	2	113	FALSE	TRUE	FALSE
+Mountain Bluebird	4	5	36	FALSE	TRUE	FALSE
+Mountain Chickadee	2	3	23	TRUE	FALSE	FALSE
+Mourning Dove	0	5	46	TRUE	TRUE	TRUE
+Musk Duck	2	2	87	FALSE	FALSE	TRUE
+Mute Swan	4	3	220	FALSE	FALSE	TRUE
+New Holland Honeyeater	0	3	20	FALSE	TRUE	FALSE
+Noisy Miner	3	6	41	TRUE	TRUE	FALSE
+North Island Brown Kiwi	6	1	0	TRUE	TRUE	FALSE
+Northern Bobwhite	5	6	33	FALSE	TRUE	FALSE
+Northern Cardinal	3	5	30	TRUE	FALSE	FALSE
+Northern Flicker	2	4	51	TRUE	TRUE	FALSE
+Northern Gannet	5	1	173	FALSE	FALSE	TRUE
+Northern Goshawk	5	2	106	TRUE	FALSE	FALSE
+Northern Harrier	3	2	109	FALSE	TRUE	TRUE
+Northern Mockingbird	2	4	36	TRUE	TRUE	TRUE
+Northern Shoveler	7	4	76	FALSE	FALSE	TRUE
+Orange-Footed Scrubfowl	1	5	43	TRUE	FALSE	FALSE
+Osprey	5	2	160	FALSE	FALSE	TRUE
+Pacific Black Duck	2	6	88	FALSE	FALSE	TRUE
+Painted Bunting	5	4	23	FALSE	TRUE	FALSE
+Painted Whitestart	1	3	22	TRUE	FALSE	FALSE
+Parrot Crossbill	6	2	30	TRUE	FALSE	FALSE
+Peaceful Dove	3	4	25	TRUE	TRUE	FALSE
+Peregrine Falcon	5	2	104	FALSE	TRUE	TRUE
+Pesquet's Parrot	3	2	30	TRUE	FALSE	FALSE
+Pheasant Coucal	1	4	50	FALSE	TRUE	FALSE
+Pied-Billed Grebe	0	4	41	FALSE	FALSE	TRUE
+Pileated Woodpecker	4	2	74	TRUE	FALSE	FALSE
+Pine Siskin	3	2	23	TRUE	FALSE	FALSE
+Pink-Eared Duck	4	3	64	FALSE	FALSE	TRUE
+Plains-Wanderer	4	3	32	FALSE	TRUE	FALSE
+Princess Stephanie's Astrapia	6	1	45	TRUE	FALSE	FALSE
+Prothonotary Warbler	8	4	23	TRUE	FALSE	TRUE
+Pūkeko	4	3	78	FALSE	FALSE	TRUE
+Purple Gallinule	7	4	56	FALSE	FALSE	TRUE
+Purple Martin	2	3	46	FALSE	TRUE	TRUE
+Pygmy Nuthatch	2	4	20	TRUE	FALSE	FALSE
+Rainbow Lorikeet	1	2	46	TRUE	FALSE	FALSE
+Red Crossbill	6	2	28	TRUE	FALSE	FALSE
+Red Kite	4	2	157	TRUE	TRUE	TRUE
+Red Knot	7	2	50	FALSE	FALSE	TRUE
+Red Wattlebird	3	2	49	TRUE	FALSE	FALSE
+Red-Backed Fairywren	4	3	15	FALSE	TRUE	FALSE
+Red-Backed Shrike	5	2	33	FALSE	TRUE	FALSE
+Red-Bellied Woodpecker	1	3	41	TRUE	FALSE	FALSE
+Red-Breasted Merganser	3	4	78	FALSE	FALSE	TRUE
+Red-Breasted Nuthatch	2	3	23	TRUE	FALSE	FALSE
+Red-Capped Robin	2	4	17	TRUE	FALSE	FALSE
+Red-Cockaded Woodpecker	4	2	36	TRUE	FALSE	FALSE
+Red-Crowned Crane	7	1	235	FALSE	FALSE	TRUE
+Red-Eyed Vireo	3	2	25	TRUE	FALSE	FALSE
+Red-Headed Woodpecker	4	3	43	TRUE	TRUE	TRUE
+Red-Legged Partridge	1	6	48	FALSE	TRUE	FALSE
+Red-Necked Avocet	4	2	75	FALSE	FALSE	TRUE
+Red-Shouldered Hawk	3	2	102	TRUE	FALSE	FALSE
+Red-Tailed Hawk	5	2	124	TRUE	TRUE	TRUE
+Red-Winged Blackbird	2	3	33	FALSE	TRUE	TRUE
+Red-Winged Parrot	6	2	49	TRUE	TRUE	TRUE
+Regent Bowerbird	3	2	36	TRUE	TRUE	FALSE
+Ring-Billed Gull	4	2	122	FALSE	FALSE	TRUE
+Rose-Breasted Grosbeak	6	3	33	TRUE	FALSE	FALSE
+Roseate Spoonbill	6	2	127	FALSE	FALSE	TRUE
+Royal Spoonbill	4	2	120	FALSE	FALSE	TRUE
+Ruby-Crowned Kinglet	2	3	20	TRUE	FALSE	FALSE
+Ruby-Throated Hummingbird	4	2	10	TRUE	TRUE	TRUE
+Ruddy Duck	0	5	48	FALSE	FALSE	TRUE
+Ruff	2	2	56	FALSE	TRUE	TRUE
+Rufous Night-Heron	5	2	106	FALSE	FALSE	TRUE
+Rufous Owl	7	2	115	TRUE	FALSE	FALSE
+Rufous-Banded Honeyeater	0	4	22	TRUE	FALSE	TRUE
+Sacred Kingfisher	0	4	30	TRUE	TRUE	TRUE
+Sandhill Crane	5	1	196	FALSE	TRUE	TRUE
+Savannah Sparrow	2	3	18	FALSE	TRUE	FALSE
+Savi's Warbler	1	4	20	FALSE	FALSE	TRUE
+Say's Phoebe	5	3	33	FALSE	TRUE	FALSE
+Scaled Quail	0	6	36	FALSE	TRUE	FALSE
+Scissor-Tailed Flycatcher	8	2	38	FALSE	TRUE	FALSE
+Short-Toed Treecreeper	2	5	20	TRUE	FALSE	FALSE
+Silvereye	4	4	17	TRUE	TRUE	TRUE
+Snow Bunting	5	2	35	FALSE	TRUE	TRUE
+Snowy Egret	4	2	104	FALSE	FALSE	TRUE
+Snowy Owl	4	3	138	FALSE	TRUE	TRUE
+Song Sparrow	0	5	20	TRUE	TRUE	TRUE
+South Island Robin	1	5	24	TRUE	TRUE	FALSE
+Southern Cassowary	4	4	0	TRUE	FALSE	FALSE
+Spangled Drongo	1	2	27	TRUE	FALSE	FALSE
+Splendid Fairywren	1	5	15	TRUE	TRUE	FALSE
+Spotless Crake	1	3	28	FALSE	FALSE	TRUE
+Spotted Owl	5	1	102	TRUE	FALSE	FALSE
+Spotted Sandpiper	5	2	38	FALSE	FALSE	TRUE
+Spotted Towhee	0	4	28	TRUE	TRUE	FALSE
+Sprague's Pipit	3	3	25	FALSE	TRUE	FALSE
+Squacco Heron	3	2	86	FALSE	FALSE	TRUE
+Steller's Jay	5	2	48	TRUE	FALSE	FALSE
+Stubble Quail	4	6	29	FALSE	TRUE	FALSE
+Sulphur-Crested Cockatoo	6	2	103	TRUE	FALSE	FALSE
+Superb Lyrebird	5	1	73	TRUE	FALSE	FALSE
+Swainson's Hawk	5	2	130	FALSE	TRUE	FALSE
+Tawny Frogmouth	5	2	82	TRUE	TRUE	TRUE
+Thekla's Lark	4	3	34	FALSE	TRUE	FALSE
+Tree Swallow	3	4	38	FALSE	FALSE	TRUE
+Trumpeter Swan	9	2	203	FALSE	FALSE	TRUE
+Tufted Titmouse	2	3	25	TRUE	FALSE	FALSE
+Tūī	5	2	42	TRUE	FALSE	FALSE
+Turkey Vulture	1	1	170	TRUE	TRUE	TRUE
+Vaux's Swift	2	3	31	TRUE	FALSE	FALSE
+Violet-Green Swallow	3	3	36	TRUE	TRUE	TRUE
+Wedge-Tailed Eagle	7	2	207	TRUE	TRUE	TRUE
+Welcome Swallow	1	5	28	FALSE	TRUE	TRUE
+Western Meadowlark	2	4	38	FALSE	TRUE	FALSE
+Western Tanager	6	2	30	TRUE	FALSE	FALSE
+White Stork	8	2	160	FALSE	TRUE	TRUE
+White Wagtail	2	5	28	FALSE	TRUE	TRUE
+White-Backed Woodpecker	2	2	39	TRUE	FALSE	FALSE
+White-Bellied Sea-Eagle	7	2	200	TRUE	FALSE	TRUE
+White-Breasted Nuthatch	2	3	28	TRUE	FALSE	FALSE
+White-Breasted Woodswallow	3	2	32	FALSE	TRUE	FALSE
+White-Crowned Sparrow	2	5	25	TRUE	TRUE	TRUE
+White-Faced Heron	6	4	106	FALSE	FALSE	TRUE
+White-Faced Ibis	8	2	91	FALSE	FALSE	TRUE
+White-Throated Dipper	3	4	28	FALSE	FALSE	TRUE
+White-Throated Swift	2	2	38	FALSE	TRUE	FALSE
+Whooping Crane	6	1	221	FALSE	FALSE	TRUE
+Wild Turkey	8	5	135	TRUE	TRUE	FALSE
+Willet	4	2	66	FALSE	FALSE	TRUE
+Willie-Wagtail	2	5	30	TRUE	TRUE	TRUE
+Wilson's Snipe	5	2	41	FALSE	FALSE	TRUE
+Wilson's Storm Petrel	6	1	38	FALSE	FALSE	TRUE
+Wood Duck	4	4	76	TRUE	FALSE	TRUE
+Wood Stork	6	2	155	FALSE	FALSE	TRUE
+Wrybill	4	2	49	FALSE	FALSE	TRUE
+Yellow-Bellied Sapsucker	3	3	41	TRUE	FALSE	FALSE
+Yellow-Billed Cuckoo	5	2	46	TRUE	FALSE	FALSE
+Yellow-Breasted Chat	5	3	25	TRUE	TRUE	TRUE
+Yellow-Headed Blackbird	4	3	38	FALSE	FALSE	TRUE
+Yellow-Rumped Warbler	1	4	23	TRUE	FALSE	FALSE
+Yellowhammer	2	3	26	TRUE	TRUE	FALSE
